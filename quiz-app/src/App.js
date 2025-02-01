@@ -16,7 +16,6 @@ function App() {
       {!showMain && <button className='start' onClick={handleClick}>Start Quiz</button>}
     
       {showMain && <Quiz />}
-      
     </div>)
   }
 
