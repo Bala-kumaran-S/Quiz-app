@@ -1,7 +1,7 @@
 # Quiz App
 
 ## Overview
-This is a web-based quiz application with gamification features, designed to provide an interactive quiz experience. The application fetches quiz data from the provided API endpoint and presents multiple-choice questions to the user. Upon completion, a summary of results, including total points scored, is displayed.I used react framework for the developement and I access the API data using axios if axios could not get the data i gave an mock data to the app to be fail free.
+This is a web-based quiz application with gamification , designed to provide an interactive quiz experience. The application fetches quiz data from the provided API endpoint and presents multiple-choice questions to the user. Upon completion, a summary of results, including total points scored, is displayed.I used react framework for the developement and I access the API data using axios if axios could not get the data i gave an mock data to the app to be fail free.
 
 ## Features
 - **Start Quiz**: Users can begin the quiz with a click.
