@@ -15,7 +15,7 @@ function App() {
       <h1 className='title'>Quiz App</h1>
       {!showMain && <button className='start' onClick={handleClick}>Start Quiz</button>}
     
-      {showMain && <Quiz />}
+      {showMain && <Quiz/>}
     </div>)
   }
 
